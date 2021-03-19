@@ -13,20 +13,19 @@
 
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# [Weather Forecast Dashboard](https://kkuznets.github.io/weather-forecast-dashboard/)
+# [Weather Forecast Dashboard](https://kkuznets.github.io/weather-forecast-dashboard/) <!-- omit in toc -->
 
 > Mobile-first web application enabling users to view current weather and forecast for a selected city.
 
-<img src="https://raw.githubusercontent.com/kkuznets/ProjectURL/master/assets/img/demo.png" alt="Weather Forecast Dashboard Demo"/>
+<img src="https://raw.githubusercontent.com/kkuznets/weather-forecast-dashboard/master/assets/img/demo.png" alt="Weather Forecast Dashboard Demo"/>
 
 ## 🚩 Table of Contents <!-- omit in toc -->
 
-- [Weather Forecast Dashboard](#weather-forecast-dashboard)
-  - [🚀 Features](#-features)
-  - [🔧 Getting Started](#-getting-started)
-  - [✍️ Pull Request](#️-pull-request)
-  - [💬 Contributing](#-contributing)
-  - [📜 License](#-license)
+- [🚀 Features](#-features)
+- [🔧 Getting Started](#-getting-started)
+- [✍️ Pull Request](#️-pull-request)
+- [💬 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ## 🚀 Features
 
